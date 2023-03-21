@@ -34,7 +34,6 @@ Once you have Bytox setup the commands are simple and easy to follow. You can do
     
     - all_cmd - will attempt to send a command to all the bots connected to the client
     - py_payload - will attempt to generate a python payload
-    - c_payload - will attempt to generate a C++ payload
     - set_noti - will change your notification channel
     - more_<command_to_find_more_info - will give you more info about a command
 
@@ -56,5 +55,3 @@ You can also obfuscate the python code before you decide to compile it into a .e
 found below. 
 
 https://github.com/Sl-Sanda-Ru/Py-Fuscate
-
-To prepare the C++ payload you will also need to have created a Discord bot and gather it's token.
