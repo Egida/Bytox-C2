@@ -2,7 +2,7 @@
 Bytox is a framework that allows you to use Discord as a command and control centre. It is built mainly on the Discord.py module and also has some C# and C++
 incorporated into it's source code. The C2 allows a user to generate a python payload and in the future a C++ payload which will allow them to have control and access to a system. 
 
-**Version 1.0 to be released very soon, this will include the python side of Bytox. C++ side is still in development**
+**Version 1 has been released. This includes all the python features in the script. C++ aspects are coming very soon**
 
 This is a PoC program, do NOT use this for malicious purposes.
 
