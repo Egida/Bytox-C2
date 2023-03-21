@@ -8,12 +8,7 @@ This is a PoC program, do NOT use this for malicious purposes.
 
 ## [Setting up main.py]
 
-To set up main.py it is very simple. All you need is a Discord account, a Discord Bot and python installed onto your PC. Once you have these follow tese instructions:
+firstly, you will need to have a Discord bot set up and get it's token. You can do this at the Discord Developer Portal. Secondly, you will need to run the `Builder.py` script this will install the correct python modules and also build Bytox-C2 for you. All you need to do is follow what it is asking for on screen.
 
-    - Ensure you have Discord.py installed on your system. Run the installer to ensure you have the necessary packages installed on your host machine
-    - Copy your bot token and replace line 16 with your token
-    - Create a Discord server and a notification channel, also ensure you have Discord Developer Mode on as you will need the channel ID
-    - Copy the notification channel ID and then replace line 17 with the new channel ID
-    - Inviet your bot the server. Here you can run the main.py script and Bytox should come online and send a message to your notification channels
-    - Here you can now type !help and help commands will appear on how to use this framework
+There is a manual way of setting up the script if you would prefer and you can find this in the README.txt file in the repo.
     
