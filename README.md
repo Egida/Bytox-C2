@@ -4,6 +4,8 @@ incorporated into it's source code. The C2 allows a user to generate a python pa
 
 **Version 1.0 to be released very soon, this will include the python side of Bytox. C++ side is still in development**
 
+This is a PoC program, do NOT use this for malicious purposes.
+
 ## [Setting up main.py]
 
 To set up main.py it is very simple. All you need is a Discord account, a Discord Bot and python installed onto your PC. Once you have these follow tese instructions:
